@@ -1,1 +1,106 @@
-site_name: My Docs
+site_name: ZJERS - 分享ZJE的一切
+site_url: https://zjers.com
+site_author: Zhouyue Zhu
+copyright: Copyright &copy; 2025 - Now ZJERS
+
+repo_url: https://github.com/zhuzhouyue123/zjers
+repo_name: zhuzhouyue123/zjers
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/git-alt
+    view: material/eye
+  palette: 
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+    - content.action.view
+
+plugins:
+  - search
+  - tags
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - minify:
+      minify_html: true
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zhuzhouyue123
+
+
+
+edit_uri: edit/main/docs/
+
+markdown_extensions:
+  - abbr
+  - tables
+  - footnotes
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.blocks.caption
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences 
+  - pymdownx.inlinehilite
+
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - 首页:
+    - 首页: index.md
+    - 贡献指南: contribute.md
+  
+  - 常用信息:
+    - basics/index.md
+    - Blackboard: basics/blackboard.md
+    - PeopleSoft: basics/peoplesoft.md
+    - MyZJU: basics/myzju.md
+
+  - 课程:
+    - 专业课:
+      - IBMS: course/ibms.md
+  
+  - 美食指南: foodmap/foodmap.md
