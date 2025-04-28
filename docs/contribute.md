@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-本项目基于开源框架[MkDocs](https://www.mkdocs.org/)，使用[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)项目作为主题，源代码托管在[GitHub]([zhuzhouyue123/zjers](https://github.com/zhuzhouyue123/zjers))上，欢迎各位提交PR和提出issue。
+本项目基于开源框架[MkDocs](https://www.mkdocs.org/)，使用[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)项目作为主题，源代码托管在[GitHub](https://github.com/zhuzhouyue123/zjers)上，欢迎各位提交PR和提出issue。
 
 ## 项目结构
 
