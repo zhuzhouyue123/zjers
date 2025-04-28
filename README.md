@@ -29,6 +29,12 @@
 
 由贡献者编写的部分版权许可如下：
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-本项目使用到的开源项目版权归项目作者所有。
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+<https://creativecommons.org/licenses/by-nc-sa/4.0/>
+
+本项目使用到的开源项目版权归项目作者所有，并且遵循原作者的开源许可证。
