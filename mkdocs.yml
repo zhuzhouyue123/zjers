@@ -103,4 +103,12 @@ nav:
     - 专业课:
       - IBMS: course/ibms.md
   
-  - 美食指南: foodmap/foodmap.md
+  - 美食指南: 
+    - foodmap/index.md
+    - 早餐: foodmap/breakfast.md
+    - 火锅/烤肉: foodmap/bbq_hotpot.md
+    - 中国地方菜系: foodmap/chinese_cuisine.md
+    - 外国料理: foodmap/foreign_cuisine.md
+    - 小吃/快餐: foodmap/snack.md
+    - 面包/蛋糕/甜品/饮品: foodmap/dessert.md
+    - 其他: foodmap/others.md
