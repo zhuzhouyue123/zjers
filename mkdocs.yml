@@ -116,7 +116,7 @@ nav:
   - 美食指南: 
     - foodmap/index.md
     - 早餐: 
-      - foodmap/index.md
+      - foodmap/breakfast/index.md
       - 三棵柳千层饼: foodmap/breakfast/三棵柳千层饼.md
       - 煎饼姐姐饺子馆: foodmap/breakfast/煎饼姐姐饺子馆.md
       - 胡大菁馄饨: foodmap/breakfast/胡大菁馄饨.md
