@@ -111,11 +111,12 @@ nav:
         - ICMB: course/icmb.md
         - IFBS: course/ifbs.md
     - 通识课:
+      - 体育: course/pe.md
   
   - 美食指南: 
     - foodmap/index.md
     - 早餐: 
-      - foodmap/breakfast.md
+      - foodmap/index.md
       - 三棵柳千层饼: foodmap/breakfast/三棵柳千层饼.md
       - 煎饼姐姐饺子馆: foodmap/breakfast/煎饼姐姐饺子馆.md
       - 胡大菁馄饨: foodmap/breakfast/胡大菁馄饨.md
@@ -124,12 +125,18 @@ nav:
       - 麦当劳: foodmap/breakfast/麦当劳.md
       - 小江水: foodmap/breakfast/小江水.md
       - 多多馄饨: foodmap/breakfast/多多馄饨.md
-    - 火锅/烤肉: foodmap/bbq-hotpot.md
-    - 中国地方菜系: foodmap/chinese-cuisine.md
-    - 外国料理: foodmap/foreign-cuisine.md
-    - 小吃/快餐: foodmap/snack.md
-    - 面包/蛋糕/甜品/饮品: foodmap/dessert.md
-    - 其他: foodmap/others.md
+    - 火锅/烤肉: 
+      - foodmap/bbq-hotpot/index.md
+    - 中国地方菜系: 
+      - foodmap/chinese-cuisine/index.md
+    - 外国料理: 
+      - foodmap/foreign-cuisine/index.md
+    - 小吃/快餐: 
+      - foodmap/snack/index.md
+    - 面包/蛋糕/甜品/饮品: 
+      - foodmap/dessert/index.md
+    - 其他: 
+      - foodmap/others/index.md
 
   - 常用教程:
     - tutorial/index.md
