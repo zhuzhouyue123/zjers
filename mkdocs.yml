@@ -47,6 +47,7 @@ theme:
 
 plugins:
   - search
+  - glightbox
   - tags
   - git-revision-date-localized:
       enable_creation_date: true
