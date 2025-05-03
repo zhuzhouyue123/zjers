@@ -29,6 +29,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
+
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -44,6 +45,7 @@ theme:
     - search.highlight
     - navigation.footer
     - content.action.view
+
 
 plugins:
   - search
@@ -62,6 +64,7 @@ extra:
 
 
 edit_uri: edit/main/docs/
+
 
 markdown_extensions:
   - abbr
@@ -88,6 +91,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
+
 nav:
   - 首页:
     - 首页: index.md
@@ -101,14 +105,34 @@ nav:
 
   - 课程:
     - 专业课:
-      - IBMS: course/ibms.md
+      - 大一:
+        - IBMS: course/ibms.md
+        - IBI: course/ibi.md
+        - ICMB: course/icmb.md
+        - IFBS: course/ifbs.md
+    - 通识课:
   
   - 美食指南: 
     - foodmap/index.md
-    - 早餐: foodmap/breakfast.md
-    - 火锅/烤肉: foodmap/bbq_hotpot.md
-    - 中国地方菜系: foodmap/chinese_cuisine.md
-    - 外国料理: foodmap/foreign_cuisine.md
+    - 早餐: 
+      - foodmap/breakfast.md
+      - 三棵柳千层饼: foodmap/breakfast/三棵柳千层饼.md
+      - 煎饼姐姐饺子馆: foodmap/breakfast/煎饼姐姐饺子馆.md
+      - 胡大菁馄饨: foodmap/breakfast/胡大菁馄饨.md
+      - 袁记云饺: foodmap/breakfast/袁记云饺.md
+      - 熊仔坊: foodmap/breakfast/熊仔坊.md
+      - 麦当劳: foodmap/breakfast/麦当劳.md
+      - 小江水: foodmap/breakfast/小江水.md
+      - 多多馄饨: foodmap/breakfast/多多馄饨.md
+    - 火锅/烤肉: foodmap/bbq-hotpot.md
+    - 中国地方菜系: foodmap/chinese-cuisine.md
+    - 外国料理: foodmap/foreign-cuisine.md
     - 小吃/快餐: foodmap/snack.md
     - 面包/蛋糕/甜品/饮品: foodmap/dessert.md
     - 其他: foodmap/others.md
+
+  - 常用教程:
+    - tutorial/index.md
+    - 校区网络使用指南: tutorial/web.md
+    - 爱大VPN使用教程: tutorial/vpn-ed.md
+    - Zotero使用教程: tutorial/zotero.md
