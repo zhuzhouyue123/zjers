@@ -141,5 +141,6 @@ nav:
   - 常用教程:
     - tutorial/index.md
     - 校区网络使用指南: tutorial/web.md
+    - 浙大校外VPN使用教程: tutorial/vpn-zju.md
     - 爱大VPN使用教程: tutorial/vpn-ed.md
     - Zotero使用教程: tutorial/zotero.md
