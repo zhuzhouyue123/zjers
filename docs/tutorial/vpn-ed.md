@@ -26,9 +26,9 @@ ZJE合作院校爱丁堡大学为每一位学生提供了学校VPN，因为相�
 
 ### 5. 设置完密码就代表VPN账户已经激活
 
-## 不同平台的VPN连接方式
+## 不同平台的VPN连接方式（在此统一优先推荐最后的FortiClient的多平台适用连接方式）
 
-### Windows
+### Windows L2TP
 
 #### 1. 打开设置
 
@@ -80,7 +80,7 @@ VPN类型：使用预共享密钥的L2TP/IPsec
 
 ![image-20250503180705580](./assets/image-20250503180705580.png)
 
-### MacOS
+### MacOS L2TP
 
 #### 1. 打开系统偏好设置-网络-右下角-添加VPN-L2TP/IPsec
 
@@ -99,3 +99,39 @@ VPN类型：使用预共享密钥的L2TP/IPsec
 ![image-20250503183852777](./assets/image-20250503183852777.png)
 
 #### 4. 点击“好”，即可在系统偏好设置左侧菜单中选择VPN选项卡连接VPN
+
+### FortiClient 连接方式
+
+#### 1. 打开爱大官方FortiClient VPN客户端下载网站
+
+网址：（https://information-services.ed.ac.uk/computing/desktop-personal/vpn/forticlient-vpn）
+
+#### 2.根据自己的需要下载对应平台的VPN客户端
+
+ （会需要登录爱大的账号才能访问相应的教程页面，如果需要下载对应的客户端可以直接使用后文的链接）
+
+![image-20250909014641323](./assets/image-20250909014641323.png)
+
+这里贴出直接下载的链接：
+
+Windows：https://links.fortinet.com/forticlient/win/vpnagent
+
+MacOS：https://links.fortinet.com/forticlient/mac/vpnagent
+
+（没有涉及到的平台可以自行访问爱大官网的教程进行下载）
+
+#### 3. 安装对应的客户端，笔者这里以Windows客户端为例
+
+Windows用户直接双击下载的.exe文件进行安装。
+
+#### 4. VPN配置环节
+
+打开安装好的FortiClient客户端，点击配置连接（如下图）。选择SSL-VPN选项，连接名称自定义一个喜欢的，不要有特殊字符，建议是英文字母的组合，远程网关填写`remote.net.ed.ac.uk`，勾选自定义端口，并且填写上`8443`，勾选保存登录名，用户名为s开头的学号，选择保存。
+
+![image-20250909015633118](./assets/image-20250909015633118.png)
+
+#### 5. 连接
+
+此时回到首页输入密码即可连接爱大VPN，这种方式的稳定性会比之前介绍的连接方式更加稳定可用性更高一些，故比较推荐。
+
+![image-20250909015848371](./assets/image-20250909015848371.png)
