@@ -104,7 +104,7 @@ VPN类型：使用预共享密钥的L2TP/IPsec
 
 #### 1. 打开爱大官方FortiClient VPN客户端下载网站
 
-网址：（https://information-services.ed.ac.uk/computing/desktop-personal/vpn/forticlient-vpn）
+网址：[https://information-services.ed.ac.uk/computing/desktop-personal/vpn/forticlient-vpn](https://information-services.ed.ac.uk/computing/desktop-personal/vpn/forticlient-vpn)
 
 #### 2.根据自己的需要下载对应平台的VPN客户端
 
@@ -114,9 +114,9 @@ VPN类型：使用预共享密钥的L2TP/IPsec
 
 这里贴出直接下载的链接：
 
-Windows：https://links.fortinet.com/forticlient/win/vpnagent
+Windows：[客户端下载](https://links.fortinet.com/forticlient/win/vpnagent)
 
-MacOS：https://links.fortinet.com/forticlient/mac/vpnagent
+MacOS：[客户端下载](https://links.fortinet.com/forticlient/mac/vpnagent)
 
 （没有涉及到的平台可以自行访问爱大官网的教程进行下载）
 
