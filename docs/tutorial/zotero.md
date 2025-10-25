@@ -16,13 +16,13 @@ Zotero是一款免费、开源的文献管理软件，它可以帮助您收集�
 
 ### 1. 下载 Zotero
 
-访问 Zotero 官方网站https://www.zotero.org/。下载并安装两个主要组件：
+访问 Zotero 官方网站[https://www.zotero.org/](https://www.zotero.org/)。下载并安装两个主要组件：
 
-* **Zotero 桌面应用程序 (Zotero Standalone/Desktop Application)**：这是您的文献库管理软件本体。
+* **Zotero 桌面应用程序 (Zotero Standalone/Desktop Application)**：这是文献库管理软件本体。
 
 * **Zotero 连接器（Zotero Connector/Browser Extension）**：这是一个浏览器扩展程序（支持 Chrome, Firefox, Safari 等），用于一键保存网页和文献信息到您的 Zotero 库中。
 
-  下载页面链接：https://www.zotero.org/download/
+  下载页面链接：[https://www.zotero.org/download/](https://www.zotero.org/download/)
 
   ![image-20251025172454502](./assets/image-20251025172454502.png)
 
@@ -100,7 +100,7 @@ Zotero是一款免费、开源的文献管理软件，它可以帮助您收集�
 
     * 首次使用时，Zotero 会要求您**选择引文格式**（如 APA, MLA, GB/T 7714-2015）。
     
-      <img src="./assets/image-20251025190952886.png" alt="image-20251025190952886"/>
+      ![image-20251025190952886](./assets/image-20251025190952886.png)
     
     * 会弹出一个搜索框。在搜索框中输入您要引用的文献的标题、作者或年份，找到该文献并选中。您可以一次性添加多个引文。
     
@@ -183,7 +183,7 @@ Zotero本身提供的功能十分有限，但是Zotero开放了一部分api接�
 
 Zotero有一个插件叫做**插件市场**，通过上述方法安装好**插件市场**插件以后即可可视化的安装更新插件。
 
-链接：https://github.com/syt2/zotero-addons
+链接：[https://github.com/syt2/zotero-addons](https://github.com/syt2/zotero-addons)
 
 ![image-20251025193136837](./assets/image-20251025193136837.png)
 
@@ -199,7 +199,7 @@ Zotero有一个插件叫做**插件市场**，通过上述方法安装好**插�
 
 - GitHub，大多数插件在GitHub上都找得到
 
-- 推荐：Zotero中文社区的插件栏目https://zotero-chinese.com/plugins/
+- 推荐：Zotero中文社区的插件栏目[https://zotero-chinese.com/plugins/](https://zotero-chinese.com/plugins/)
 
   ![image-20251025193251598](./assets/image-20251025193251598.png)
 
@@ -211,7 +211,7 @@ Zotero有一个插件叫做**插件市场**，通过上述方法安装好**插�
 
 #### 简介
 
-链接：https://github.com/windingwind/zotero-pdf-translate
+链接：[https://github.com/windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
 
 Zotero PDF Translate是由@windingwind 开发的，用于文献管理软件Zotero的翻译插件。它完全开源、免费，主要功能有：
 
@@ -221,7 +221,7 @@ Zotero PDF Translate是由@windingwind 开发的，用于文献管理软件Zoter
 - 支持15+种翻译服务与4+种字典服务
 - 自定义翻译侧栏UI，支持同时使用多种翻译引擎
 
-使用文档：https://zotero.yuque.com/staff-gkhviy/pdf-trans
+使用文档：[https://zotero.yuque.com/staff-gkhviy/pdf-trans](https://zotero.yuque.com/staff-gkhviy/pdf-trans)
 
 #### 插件效果
 
@@ -229,11 +229,11 @@ Zotero PDF Translate是由@windingwind 开发的，用于文献管理软件Zoter
 
 ![image-20251025194017889](./assets/image-20251025194017889.png)
 
-<img src="./assets/image-20251025194136229.png" alt="image-20251025194136229" style="zoom:50%;" />
+![image-20251025194136229](./assets/image-20251025194136229.png)
 
 #### 基本使用
 
-这个翻译插件默认情况下谷歌翻译是可用的，其他翻译提供商如（有道、ChatGPT）可能需要配置密钥和api，详见上述的使用文档，笔者比较常用ChatGPT作为翻译供应商。关于如何配置翻译供应商，笔者在这里引用自用的转发api的官方文档来解释https://chatanywhere.apifox.cn/#zoter%E4%B8%AD%E7%9A%84%E7%BF%BB%E8%AF%91。
+这个翻译插件默认情况下谷歌翻译是可用的，其他翻译提供商如（有道、ChatGPT）可能需要配置密钥和api，详见上述的使用文档，笔者比较常用ChatGPT作为翻译供应商。关于如何配置翻译供应商，笔者在这里引用自用的转发api的[官方文档](https://chatanywhere.apifox.cn/#zoter%E4%B8%AD%E7%9A%84%E7%BF%BB%E8%AF%91)来解释。
 
 ### Better Notes for Zotero（推荐）
 
@@ -263,7 +263,7 @@ Zotero PDF Translate是由@windingwind 开发的，用于文献管理软件Zoter
 
 #### 基本使用
 
-Quick Start: https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-quick-start
+Quick Start: [https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-quick-start](https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-quick-start)
 
 ![image-20251025195033808](./assets/image-20251025195033808.png)
 
@@ -275,13 +275,13 @@ Quick Start: https://github.com/windingwind/zotero-better-notes?tab=readme-ov-fi
 
 #### 简介
 
-链接：https://github.com/MuiseDestiny/zotero-gpt
+链接：[https://github.com/MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)
 
 不用多说，看名字就知道这个插件好用的离谱。主要是把各种AI模型问答集成到Zotero中，让Zotero集成各种AI功能。此插件可以花钱解锁专业版，可以有一些额外的功能。比如：通过浏览器插件调用网页版AI如GPT网页版和Gemini网页版，AI侧边栏等等。
 
 这是Polygon插件三件套之一（Zotero Style Pro， Zotero Reference Pro，Zotero GPT Pro（Awesome GPT））
 
-使用文档：https://x9l8rgumba.feishu.cn/docx/P9STduZyvoWtWnxkfPWcdtSKnje
+使用文档：[https://x9l8rgumba.feishu.cn/docx/P9STduZyvoWtWnxkfPWcdtSKnje](https://x9l8rgumba.feishu.cn/docx/P9STduZyvoWtWnxkfPWcdtSKnje)
 
 ![image-20251025195925172](./assets/image-20251025195925172.png)
 
@@ -301,13 +301,13 @@ Quick Start: https://github.com/windingwind/zotero-better-notes?tab=readme-ov-fi
 
 主要是介绍一下API的配置方法（这里以笔者自用的ChatAnywhere API为例）：
 
-ChatAnywhere官方文档：https://chatanywhere.apifox.cn/#zotero
+ChatAnywhere官方文档：[https://chatanywhere.apifox.cn/#zotero](https://chatanywhere.apifox.cn/#zotero)
 
 这里主要是注意几个地方：
 
 - 第一项：API网址（https://开头这个链接，这个根据不同的API供应商而不同，右侧可以选择常用供应商）这个决定了你的AI请求会发到哪里去，笔者这里选择ChatAnywhere。
-- 第二项：API Key，这里填写你的API密钥（千万不能泄露，这个关系到你的API余额的安全，每一次调用API都会消耗API的余额），API密钥的购买方法有很多，供应商也有很多，ChatAnywhere提供一个免费的但是有使用限制的API供大家使用，具体可以查看ChatAnywhere的GitHub页面（https://github.com/chatanywhere/GPT_API_free），如果想要不受限制模型更多的API，可自行购买付费API（本文章以及笔者和ChatAnywhere没有利益来往，本文章不构成任何API的购买建议）。
-- 第三项：模型选择，通常一个模型会有一个唯一标识符，比如GPT 4O Mini的为gpt-4o-mini，这个可以在模型API提供商处查看（如下图），比如https://chatanywhere.apifox.cn/doc-2694962
+- 第二项：API Key，这里填写你的API密钥（千万不能泄露，这个关系到你的API余额的安全，每一次调用API都会消耗API的余额），API密钥的购买方法有很多，供应商也有很多，ChatAnywhere提供一个免费的但是有使用限制的API供大家使用，具体可以查看ChatAnywhere的[GitHub页面](https://github.com/chatanywhere/GPT_API_free)，如果想要不受限制模型更多的API，可自行购买付费API（本文章以及笔者和ChatAnywhere没有利益来往，本文章不构成任何API的购买建议）。
+- 第三项：模型选择，通常一个模型会有一个唯一标识符，比如GPT 4O Mini的为gpt-4o-mini，这个可以在模型API提供商处查看（如下图），比如[https://chatanywhere.apifox.cn/doc-2694962](https://chatanywhere.apifox.cn/doc-2694962)
 - 第四项：Using custom embeddings，通常如果使用GPT则不用管，但是如果使用Kimi等没有embedding的模型的时候需要指定Embedding Model（关于Embedding和Embedding Model是什么，请自行AI或者Google）
 - 其余的选项建议直接保留默认即可，配置完后可以点击Test查看配置是否正确。
 
@@ -321,11 +321,11 @@ ChatAnywhere官方文档：https://chatanywhere.apifox.cn/#zotero
 
 #### 简介
 
-链接：https://github.com/MuiseDestiny/zotero-style
+链接：[https://github.com/MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style)
 
 这个插件主要是一个Zotero美化插件，并且通过美化以后可以一定程度上提高文献阅读和调研的效率，如显示期刊影响因子分区，阅读进度条，标签。但是本插件的目标人群是想美化自己的Zotero，并且有一定学习插件的实践，本插件确实有能一定程度上提高效率的功能，但是不可避免地会对性能有影响，这个可以自己权衡。
 
-具体的使用文档见此：https://www.notion.so/Zotero-Style-bc2aebbbb6df4b7baa858e376e4fc5be
+具体的使用文档见此：[https://www.notion.so/Zotero-Style-bc2aebbbb6df4b7baa858e376e4fc5be](https://www.notion.so/Zotero-Style-bc2aebbbb6df4b7baa858e376e4fc5be)
 
 同样的这个插件也属于Polygon插件三件套之一（Zotero Style Pro， Zotero Reference Pro，Zotero GPT Pro（Awesome GPT））有基础的免费功能，但是也可以付费解锁Pro功能。
 
@@ -367,7 +367,7 @@ ChatAnywhere官方文档：https://chatanywhere.apifox.cn/#zotero
 
 这个插件可以便捷的获取文献的DOI Number，从而更方便Zotero刮削元数据。
 
-链接：https://github.com/bwiernik/zotero-shortdoi
+链接：[https://github.com/bwiernik/zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi)
 
 #### 基本使用：
 
@@ -381,7 +381,7 @@ ChatAnywhere官方文档：https://chatanywhere.apifox.cn/#zotero
 
 根据EasyScholar来更新期刊等信息。
 
-链接：https://github.com/redleafnew/zotero-updateifsE
+链接：[https://github.com/redleafnew/zotero-updateifsE](https://github.com/redleafnew/zotero-updateifsE)
 
 #### 主要功能（Copy自GitHub）：
 
@@ -437,7 +437,7 @@ ChatAnywhere官方文档：https://chatanywhere.apifox.cn/#zotero
 >
 >（当然笔者可以告诉你，你放心用LoL）
 
-链接：https://github.com/syt2/zotero-scipdf
+链接：[https://github.com/syt2/zotero-scipdf](https://github.com/redleafnew/zotero-updateifsE)
 
 #### 基本使用：
 
@@ -449,7 +449,7 @@ ChatAnywhere官方文档：https://chatanywhere.apifox.cn/#zotero
 
 #### 简介：
 
-链接：https://github.com/northword/zotero-format-metadata
+链接：[https://github.com/northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata)
 
 主要作用于规范化/格式化条目的元数据
 
