@@ -8,11 +8,11 @@ repo_name: zhuzhouyue123/zjers
 
 theme:
   name: material
+  logo: assets/logo.svg
   icon:
-    logo: assets/share.svg
     repo: fontawesome/brands/git-alt
     view: material/eye
-  favicon: assets/share.svg
+  favicon: assets/logo.svg
   palette: 
     - media: "(prefers-color-scheme)"
       toggle:
