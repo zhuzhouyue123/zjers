@@ -2,6 +2,7 @@
 
 ## 更新日志
 
+- 本文同步更新于我的博客[https://blog.fantasticjoe.com/a6f9f7b7.html](https://blog.fantasticjoe.com/a6f9f7b7.html)
 - 2025.10.25 写完整个文档的基本内容。
 
 ## 前言
