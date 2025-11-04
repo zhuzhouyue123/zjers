@@ -63,6 +63,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/zhuzhouyue123
+    - icon: fontawesome/solid/rss-square
+      link: /feed_rss_updated.xml
 
 
 
