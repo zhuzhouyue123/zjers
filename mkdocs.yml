@@ -108,19 +108,22 @@ nav:
   - 课程:
     - 专业课:
       - 大一:
-        - IBMS(整合生物医学1): course/year1/ibms.md
-        - IBI(生物信息学导论): course/year1/ibi.md
-        - ICMB(细胞分子生物学): course/year1/icmb.md
+        - IBMS(整合生物医学1): 
+          - course/year1/ibms/index.md
+        - IBI(生物信息学导论): 
+          - course/year1/ibi/index.md
+        - ICMB(细胞分子生物学): 
+          - course/year1/icmb/index.md
       - 大二:
         - IFBS(生理学): 
-          - course/year2/ifbs.md
+          - course/year2/ifbs/index.md
         - ADS(应用数据科学):
-          - course/year2/ads.md
-        - DST(数据库与软件技术): 
-          - course/year2/ifbs.md
+          - course/year2/ads/index.md
+        - DST(数据库与软件技术):
+          - course/year2/dst/index.md
           - 浅谈Servlet: course/year2/dst/servlet.md
         - GP(基因组学与蛋白质组学):
-          - course/year2/gp.md
+          - course/year2/gp/index.md
     - 通识课:
       - 体育: course/generalcourse/pe.md
   
