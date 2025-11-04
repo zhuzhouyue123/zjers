@@ -1,6 +1,7 @@
 site_name: ZJERS - 分享ZJE的一切
 site_url: https://zjers.com
 site_author: Zhouyue Zhu
+site_description: "记录生活学习在ZJE，国际校区，乃至生活在海宁市的一些指南，用作参考。"
 copyright: Copyright &copy; 2025 - Now ZJERS
 
 repo_url: https://github.com/zhuzhouyue123/zjers
@@ -55,6 +56,7 @@ plugins:
       enable_creation_date: true
   - minify:
       minify_html: true
+  - rss
 
 
 extra:
