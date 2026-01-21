@@ -109,22 +109,34 @@ nav:
   - 课程:
     - 专业课:
       - 大一:
-        - IBMS(整合生物医学1): 
-          - course/year1/ibms/index.md
-        - IBI(生物信息学导论): 
-          - course/year1/ibi/index.md
-        - ICMB(细胞分子生物学): 
-          - course/year1/icmb/index.md
+        - IBMS1(整合生物医学1): 
+          - course/year1/IBMS1/index.md
+        - IBI1(生物信息学导论): 
+          - course/year1/IBI1/index.md
+        - ICMB1(细胞分子生物学): 
+          - course/year1/ICMB1/index.md
       - 大二:
-        - IFBS(生理学): 
-          - course/year2/ifbs/index.md
-        - ADS(应用数据科学):
-          - course/year2/ads/index.md
-        - DST(数据库与软件技术):
-          - course/year2/dst/index.md
-          - 浅谈Servlet: course/year2/dst/servlet.md
-        - GP(基因组学与蛋白质组学):
-          - course/year2/gp/index.md
+        - IFBS2(生理学): 
+          - course/year2/IFBS2/index.md
+        - BG2(遗传):
+          - course/year2/BG2/index.md
+        - ADS2(应用数据科学):
+          - course/year2/ADS2/index.md
+        - DST2(数据库与软件技术):
+          - course/year2/DST2/index.md
+          - 浅谈Servlet: course/year2/DST2/servlet.md
+        - GP2(基因组学与蛋白质组学):
+          - course/year2/GP2/index.md
+      - 大三:
+        - IBMS3(整合生物医学3):
+          - course/year3/IBMS3/index.md
+        - MBE3(分子生物学与表观遗传学):
+          - course/year3/MBE3/index.md
+        - PoN3(神经科学):
+          - course/year3/PoN3/index.md
+      - 大四:
+        - IID4:
+          - course/year4/IID4/index.md
     - 通识课:
       - 体育: course/generalcourse/pe.md
   
@@ -161,4 +173,4 @@ nav:
     - Zotero使用教程: tutorial/zotero.md
   
   - 友情链接:
-    - 友情链接: links/index.md
+    - links/index.md
